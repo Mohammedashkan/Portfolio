@@ -11,6 +11,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "firebase-tools": "^13.0.3",
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "firebase": "^10.7.1"
   }
 }
